@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.list-item {
+  list-style-type: none;
+  width: 235px;
+  margin: 0px 15px 32px 15px;
+}
+.app-image {
+  width: 235px;
+  height: 175px;
+  background-size: cover;
+}
+.name {
+  color: #000000;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+}
